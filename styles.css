@@ -25,3 +25,13 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+
+.kitty{
+  content:url("http://imagesmtv-a.akamaihd.net/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2014/08/cat1.gif");
+  position: absolute;
+}
+
+.rollingKitty{
+  content:url("http://www.hawaiikawaii.net/wp-content/uploads/2011/05/tumblr_levdztEIaP1qfeq2qo1_4001.gif");
+  position: absolute;
+}
